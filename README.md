@@ -1,6 +1,6 @@
 [![Harsha's GitHub Banner](./assets/GitHubHeader.jpg)](https://harsha14gupta.github.io/)
 # Here's my contribution:
-| ![Harsha's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=harsha14gupta&show_icons=true) | ![Harsha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsha14gupta) |
+![Harsha's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=harsha14gupta&show_icons=true) ![Harsha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsha14gupta)
 ![Harsha's github activity graph](https://activity-graph.herokuapp.com/graph?username=harsha14gupta)
 # Tools & Technologies:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha14gupta&hide=TeX&layout=compact)
